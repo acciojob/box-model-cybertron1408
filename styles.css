@@ -1,4 +1,4 @@
-.parent{
+.container{
 background-color:grey;
 	border-radius:35px;
 	height:100px;
@@ -9,21 +9,21 @@ background-color:grey;
 	padding:20px;
 	
 }
-.child1{
+.green{
 	background-color:green;
 	height:65px;
 width:65px;
 	margin:19px;
 	border-radius:40px;
 }
-.child2{
+.yellow{
 	background-color:yellow;
 	height:65px;
 width:65px;
 	margin-top:19px;
 	border-radius:40px;
 }
-.child3{
+.red{
 	background-color:red;
 	height:65px;
 width:65px;
